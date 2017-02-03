@@ -1,6 +1,4 @@
 
-package mqtt;
-
 public class Mqtt {
 
     static int size = 5;
@@ -12,6 +10,7 @@ public class Mqtt {
     int[] counters = new int[size];
     static boolean gg = true;
     
+    //Etsii kaikki Armstrongin luvut
     
     public static void main(String[] args) 
     {        
